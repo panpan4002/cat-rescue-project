@@ -1,0 +1,622 @@
+fileFormatVersion: 2
+guid: 2bad5c1860d037d40969737878faac74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8378681991105025914
+    second: Monster Hypershoot eita_0
+  - first:
+      213: 3345864192407078795
+    second: Monster Hypershoot eita_1
+  - first:
+      213: -3415853358225514741
+    second: Monster Hypershoot eita_2
+  - first:
+      213: -9006963681497044456
+    second: Monster Hypershoot eita_3
+  - first:
+      213: -1162717213106684767
+    second: Monster Hypershoot eita_4
+  - first:
+      213: -4056078541420060901
+    second: Monster Hypershoot eita_5
+  - first:
+      213: -5299200142230035843
+    second: Monster Hypershoot eita_6
+  - first:
+      213: 2692356912904010691
+    second: Monster Hypershoot eita_7
+  - first:
+      213: 8841650836488697569
+    second: Monster Hypershoot eita_8
+  - first:
+      213: 8153860020536285323
+    second: Monster Hypershoot eita_9
+  - first:
+      213: -1669829941269095036
+    second: Monster Hypershoot eita_10
+  - first:
+      213: 529926628203565886
+    second: Monster Hypershoot eita_11
+  - first:
+      213: -565555304663534386
+    second: Monster Hypershoot eita_12
+  - first:
+      213: 587984006817042477
+    second: Monster Hypershoot eita_13
+  - first:
+      213: 5896174851000764818
+    second: Monster Hypershoot eita_14
+  - first:
+      213: 5332562580022453343
+    second: Monster Hypershoot eita_15
+  - first:
+      213: -8438236933521780619
+    second: Monster Hypershoot eita_16
+  - first:
+      213: -1345535021966195359
+    second: Monster Hypershoot eita_17
+  - first:
+      213: 2704684517104454031
+    second: Monster Hypershoot eita_18
+  - first:
+      213: -3367670275611337019
+    second: Monster Hypershoot eita_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7717c5f0ee074470800000000000000
+      internalID: 8378681991105025914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878f1f71c5ee6e20800000000000000
+      internalID: 3345864192407078795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f942af7737890d0800000000000000
+      internalID: -3415853358225514741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a268ba046d00380800000000000000
+      internalID: -9006963681497044456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3b82ead23ddfe0800000000000000
+      internalID: -1162717213106684767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f929d7e0ae5b7c0800000000000000
+      internalID: -4056078541420060901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72eda80c857576b0800000000000000
+      internalID: -5299200142230035843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbf53af85c2d5520800000000000000
+      internalID: 2692356912904010691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6b1f8379ad3ba70800000000000000
+      internalID: 8841650836488697569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b881358dc74582170800000000000000
+      internalID: 8153860020536285323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d185bf38293d8e0800000000000000
+      internalID: -1669829941269095036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33181fe57daa5700800000000000000
+      internalID: 529926628203565886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec431b4627eb628f0800000000000000
+      internalID: -565555304663534386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20d0f3c650f82800800000000000000
+      internalID: 587984006817042477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: -0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2990e77a9cb63d150800000000000000
+      internalID: 5896174851000764818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 256
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5467c4d961110a40800000000000000
+      internalID: 5332562580022453343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 3900
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5705ad6773c55ea80800000000000000
+      internalID: -8438236933521780619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4096
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658bd6c603b35de0800000000000000
+      internalID: -1345535021966195359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_18
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 4022
+        height: 16
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89828ffc38f88520800000000000000
+      internalID: 2704684517104454031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monster Hypershoot eita_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 122
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce5b8d1ab1a341d0800000000000000
+      internalID: -3367670275611337019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Monster Hypershoot eita_8: 8841650836488697569
+      Monster Hypershoot eita_14: 5896174851000764818
+      Monster Hypershoot eita_18: 2704684517104454031
+      Monster Hypershoot eita_9: 8153860020536285323
+      Monster Hypershoot eita_3: -9006963681497044456
+      Monster Hypershoot eita_11: 529926628203565886
+      Monster Hypershoot eita_7: 2692356912904010691
+      Monster Hypershoot eita_13: 587984006817042477
+      Monster Hypershoot eita_1: 3345864192407078795
+      Monster Hypershoot eita_5: -4056078541420060901
+      Monster Hypershoot eita_6: -5299200142230035843
+      Monster Hypershoot eita_16: -8438236933521780619
+      Monster Hypershoot eita_19: -3367670275611337019
+      Monster Hypershoot eita_12: -565555304663534386
+      Monster Hypershoot eita_17: -1345535021966195359
+      Monster Hypershoot eita_0: 8378681991105025914
+      Monster Hypershoot eita_2: -3415853358225514741
+      Monster Hypershoot eita_4: -1162717213106684767
+      Monster Hypershoot eita_10: -1669829941269095036
+      Monster Hypershoot eita_15: 5332562580022453343
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

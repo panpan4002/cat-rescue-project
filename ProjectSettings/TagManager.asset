@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Platform
+  - elementoFundo
+  - Wall
+  - projetil
+  - paredeQuebravel
+  - agua
+  - gamePika
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Wall
+  - Ground
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Bg 5
+  - Bg 4
+  - Bg 3
+  - Bg 2
+  - Bg 1
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG 1
+    uniqueID: 2847789511
+    locked: 0
+  - name: BG 2
+    uniqueID: 2171624839
+    locked: 0
+  - name: BG 3
+    uniqueID: 3847529755
+    locked: 0
+  - name: BG 4
+    uniqueID: 2464948569
+    locked: 0
+  - name: BG 5
+    uniqueID: 3048877049
+    locked: 0
+  - name: Tilemap 4
+    uniqueID: 1061081877
+    locked: 0
+  - name: 'Tilemap 2 '
+    uniqueID: 3686245721
+    locked: 0
+  - name: Tilemap Agua
+    uniqueID: 871002705
+    locked: 0
+  - name: Background Elements
+    uniqueID: 1044176981
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2446330883
+    locked: 0
+  - name: Asa Vitrum
+    uniqueID: 4245928737
+    locked: 0
+  - name: Dialogo
+    uniqueID: 3566869381
+    locked: 0
+  - name: Player
+    uniqueID: 492975655
+    locked: 0
+  - name: Tilemap
+    uniqueID: 3635226523
+    locked: 0
+  - name: foreground elements
+    uniqueID: 2621777215
+    locked: 0
+  - name: Tilemap 3
+    uniqueID: 832050581
+    locked: 0
+  - name: HUD
+    uniqueID: 747340539
+    locked: 0
+  - name: MENU
+    uniqueID: 296608183
+    locked: 0
