@@ -11,7 +11,7 @@ public class LevelLoader : MonoBehaviour
 
     void Start()
     {
-        gamePikaFoda = GameObject.FindGameObjectWithTag("gamePika").GetComponent<gamePika>();
+        //gamePikaFoda = GameObject.FindGameObjectWithTag("gamePika").GetComponent<gamePika>();
     }
 
     private void Update()
